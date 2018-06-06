@@ -1,0 +1,78 @@
+
+Quarto 2:Area = 94187.50, Perimeter = 1235.00
+Área = 9,42m²
+Perímetro = 12.35m
+
+Quarto 1:Area = 81812.50, Perimeter = 1145.00
+Área = 8,18 m²
+Perímetro = 11,45m
+
+Vazio:Area = 54625.00, Perimeter = 935.00
+Área = 5,46m²
+Perímetro = 9,35m
+
+Escritório:Area = 82012.50, Perimeter = 1215.00
+Área = 8,20m²
+Perímetro = 12,15m
+
+Escada:Area = 42075.00, Perimeter = 840.30
+Área = 4,21m²
+Perímetro = 8,40m
+
+WC 3:Area = 33000.00, Perimeter = 820.00a
+Área = 3,30m²
+Perímetro = 2,20m
+
+WC 2:Area = 45000.00, Perimeter = 900.00
+Área = 4,50m²
+Perímetro = 9,00m
+
+Suíte:Area = 119000.00, Perimeter = 1380.00
+Área = 11,90m²
+Perímetro = 13,80m
+
+Closet:Area = 33918.75, Perimeter = 740.00
+Área = 3,39m²
+Perímetro = 7,40m
+
+Jardim (piso superior):Area = 10062.50, Perimeter = 465.00
+Área = 1,01m²
+Perímetro = 4,65m
+
+Cozinha:Area = 89114.17, Perimeter = 1176.00
+Área = 8,91m²
+Perímetro = 11,76m
+
+Varanda 2:Area = 35156.25, Perimeter = 850.00
+Área = 3,52m²
+Perímetro = 8,50m
+
+Jardim:Area = 54031.25, Perimeter = 930.00
+Área = 5,40m²
+Perímetro = 9,30m
+
+Sala de Jantar:Area = 142333.78, Perimeter = 1514.12
+Área = 14,23m²
+Perímetro = 15,14m
+
+Lavabo:Area = 16500.00, Perimeter = 520.00
+Área = 1,65m²
+Perímetro = 5,20m
+
+WC1:Area = 22350.00, Perimeter = 590.00
+Área = 2,24m²
+Perímetro = 5,90m
+
+Área de Serviço:Area = 37293.75, Perimeter = 822.52
+Área = 3,73m²
+Perímetro = 8,23m
+
+Sala de Estar:Area = 139349.07, Perimeter = 1485.54
+Área = 13,93m²
+Perímetro = 14,86m
+
+Garagem:Area = 194656.37, Perimeter = 2290.40
+Área = 19,47m²
+Perímetro = 22,90m
+
+
