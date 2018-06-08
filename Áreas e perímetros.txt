@@ -21,7 +21,7 @@ Perímetro = 8,40m
 
 WC 3:Area = 33000.00, Perimeter = 820.00a
 Área = 3,30m²
-Perímetro = 2,20m
+Perímetro = 8,20m
 
 WC 2:Area = 45000.00, Perimeter = 900.00
 Área = 4,50m²
